@@ -53,6 +53,12 @@
     },
     {
       "provider": "anthropic",
+      "model_id": "claude-sonnet-5",
+      "model_label": "Claude Sonnet 5",
+      "tier": "balanced"
+    },
+    {
+      "provider": "anthropic",
       "model_id": "claude-sonnet-4-6",
       "model_label": "Claude Sonnet 4.6",
       "tier": "balanced"
