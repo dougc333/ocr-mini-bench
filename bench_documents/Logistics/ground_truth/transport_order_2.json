@@ -142,7 +142,7 @@
   "containers": [
     {
       "cargo_type": {
-        "value": "container",
+        "value": "Euro Pallets",
         "critical": true,
         "type": "string"
       },

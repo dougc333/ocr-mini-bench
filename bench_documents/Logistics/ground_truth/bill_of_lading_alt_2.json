@@ -10,7 +10,10 @@
     "type": "string"
   },
   "shipper_name": {
-    "value": "MRS RAJWINDER HOTHI & MR MANISH BHATT C/O; SIMPSONS REMOVALS & STORAGE UNIT",
+    "value": [
+      "MRS RAJWINDER HOTHI & MR MANISH BHATT C/O; SIMPSONS REMOVALS & STORAGE UNIT",
+      "MRS RAJWINDER HOTHI & MR MANISH BHATT"
+    ],
     "critical": true,
     "type": "string"
   },

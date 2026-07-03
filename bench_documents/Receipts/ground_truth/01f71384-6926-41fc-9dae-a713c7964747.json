@@ -1,6 +1,9 @@
 {
   "vendor_name": {
-    "value": "Butcher's Burger",
+    "value": [
+      "Butcher's Burger",
+      "Butcher's Burger (El Korba)"
+    ],
     "critical": true,
     "type": "string"
   },

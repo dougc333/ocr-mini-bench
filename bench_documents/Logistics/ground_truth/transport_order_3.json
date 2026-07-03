@@ -127,7 +127,10 @@
   "containers": [
     {
       "cargo_type": {
-        "value": "pallets",
+        "value": [
+          "pallets",
+          "Temperature controlled Pallets"
+        ],
         "critical": true,
         "type": "string"
       },

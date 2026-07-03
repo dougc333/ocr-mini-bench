@@ -10,7 +10,7 @@
     "type": "date"
   },
   "total_amount": {
-    "value": 349.00,
+    "value": 349.0,
     "critical": true,
     "type": "float"
   },
@@ -80,12 +80,15 @@
     "type": "string"
   },
   "payment_method": {
-    "value": "Card",
+    "value": [
+      "Card",
+      "cards"
+    ],
     "critical": false,
     "type": "string"
   },
   "amount_tendered": {
-    "value": 349.00,
+    "value": 349.0,
     "critical": false,
     "type": "float"
   },
@@ -94,8 +97,8 @@
       "item_name": "Jersey Trousers",
       "item_id": "8683111037138",
       "quantity": 1,
-      "unit_price": 349.00,
-      "total_price": 349.00
+      "unit_price": 349.0,
+      "total_price": 349.0
     }
   ]
 }

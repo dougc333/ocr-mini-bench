@@ -1,6 +1,9 @@
 {
   "vendor_name": {
-    "value": "Smash",
+    "value": [
+      "Smash",
+      "Smash tennis"
+    ],
     "critical": true,
     "type": "string"
   },
@@ -10,12 +13,12 @@
     "type": "date"
   },
   "total_amount": {
-    "value": 199.20,
+    "value": 199.2,
     "critical": true,
     "type": "float"
   },
   "total_tax": {
-    "value": 4.20,
+    "value": 4.2,
     "critical": true,
     "type": "float"
   },
@@ -40,7 +43,10 @@
     "type": "string"
   },
   "service_type": {
-    "value": "Dine-In",
+    "value": [
+      "Dine-In",
+      "Din-in"
+    ],
     "critical": false,
     "type": "string"
   },
@@ -70,12 +76,12 @@
     "type": "string"
   },
   "subtotal_amount": {
-    "value": 195.00,
+    "value": 195.0,
     "critical": false,
     "type": "float"
   },
   "service_charge": {
-    "value": 0.00,
+    "value": 0.0,
     "critical": false,
     "type": "float"
   },
@@ -94,15 +100,15 @@
       "item_name": "Piccata & Mushroom",
       "item_number": "43",
       "quantity": 1,
-      "unit_price": 65.00,
-      "total_price": 165.00
+      "unit_price": 65.0,
+      "total_price": 165.0
     },
     {
       "item_name": "Fresh Mango",
       "item_number": "213",
       "quantity": 1,
-      "unit_price": 30.00,
-      "total_price": 30.00
+      "unit_price": 30.0,
+      "total_price": 30.0
     }
   ]
 }

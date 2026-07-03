@@ -85,7 +85,10 @@
     "type": "string"
   },
   "issued_location": {
-    "value": "LOS ANGELES, USA",
+    "value": [
+      "LOS ANGELES, USA",
+      "Los Angeles, USA (USLAXX)"
+    ],
     "critical": false,
     "type": "string"
   },
@@ -95,7 +98,10 @@
     "type": "string"
   },
   "delivery_location": {
-    "value": "Antwerp, Belgium",
+    "value": [
+      "Antwerp, Belgium",
+      "Antwerp, Belgium (BEANRTH)"
+    ],
     "critical": false,
     "type": "string"
   },

@@ -207,7 +207,10 @@
   "containers": [
     {
       "cargo_type": {
-        "value": "container",
+        "value": [
+          "container",
+          "Container Chassis 40ft"
+        ],
         "critical": true,
         "type": "string"
       },
