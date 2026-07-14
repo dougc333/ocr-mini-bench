@@ -43,8 +43,12 @@ def build_prompt_cache_key(
 def get_openai_reasoning_effort(model_id: str) -> OpenAIReasoningEffort | None:
     normalized = model_id.lower()
 
-    # GPT-5.4 and GPT-5.5 families use a newer effort enum that does not accept "minimal".
-    if normalized.startswith("gpt-5.4") or normalized.startswith("gpt-5.5"):
+    # GPT-5.4, GPT-5.5, and GPT-5.6 families use a newer effort enum that does not accept "minimal".
+    if (
+        normalized.startswith("gpt-5.4")
+        or normalized.startswith("gpt-5.5")
+        or normalized.startswith("gpt-5.6")
+    ):
         return "low"
 
     if normalized.startswith("gpt-5") or normalized.startswith("o"):
