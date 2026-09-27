@@ -1,0 +1,142 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 140,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "image",
+              "kind": "image"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 140,
+          "y1": 310,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_2",
+              "x0": 0,
+              "x1": 585,
+              "label": "form_field",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_3",
+              "x0": 585,
+              "x1": 1000,
+              "label": "form_field",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 310,
+          "y1": 580,
+          "label": "narrative",
+          "blocks": [
+            {
+              "block_id": "block_4",
+              "x0": 0,
+              "x1": 495,
+              "label": "form_field",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_5",
+              "x0": 495,
+              "x1": 1000,
+              "label": "form_field",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 580,
+          "y1": 640,
+          "label": "table_header",
+          "blocks": [
+            {
+              "block_id": "block_6",
+              "x0": 0,
+              "x1": 1000,
+              "label": "form_field",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 640,
+          "y1": 860,
+          "label": "table_body",
+          "blocks": [
+            {
+              "block_id": "block_7",
+              "x0": 0,
+              "x1": 750,
+              "label": "form_field",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_8",
+              "x0": 750,
+              "x1": 1000,
+              "label": "form_field",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 860,
+          "y1": 965,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_9",
+              "x0": 0,
+              "x1": 685,
+              "label": "form_field",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_10",
+              "x0": 685,
+              "x1": 1000,
+              "label": "form_field",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 965,
+          "y1": 1000,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_11",
+              "x0": 0,
+              "x1": 1000,
+              "label": "image",
+              "kind": "image"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

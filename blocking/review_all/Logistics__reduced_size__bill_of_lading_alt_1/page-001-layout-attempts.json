@@ -1,0 +1,171 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 110,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 481,
+              "label": "header",
+              "kind": "header"
+            },
+            {
+              "block_id": "block_2",
+              "x0": 481,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 110,
+          "y1": 260,
+          "label": "form_field",
+          "blocks": [
+            {
+              "block_id": "block_3",
+              "x0": 0,
+              "x1": 500,
+              "label": "form_field",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_4",
+              "x0": 500,
+              "x1": 1000,
+              "label": "form_field",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 260,
+          "y1": 340,
+          "label": "form_field",
+          "blocks": [
+            {
+              "block_id": "block_5",
+              "x0": 0,
+              "x1": 496,
+              "label": "form_field",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_6",
+              "x0": 496,
+              "x1": 1000,
+              "label": "form_field",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 340,
+          "y1": 400,
+          "label": "form_field",
+          "blocks": [
+            {
+              "block_id": "block_7",
+              "x0": 0,
+              "x1": 496,
+              "label": "form_field",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_8",
+              "x0": 496,
+              "x1": 1000,
+              "label": "form_field",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 400,
+          "y1": 440,
+          "label": "table_header",
+          "blocks": [
+            {
+              "block_id": "block_9",
+              "x0": 0,
+              "x1": 1000,
+              "label": "table_header",
+              "kind": "table_header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 440,
+          "y1": 610,
+          "label": "table_body",
+          "blocks": [
+            {
+              "block_id": "block_10",
+              "x0": 0,
+              "x1": 1000,
+              "label": "table_body",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 610,
+          "y1": 687,
+          "label": "form_field",
+          "blocks": [
+            {
+              "block_id": "block_11",
+              "x0": 0,
+              "x1": 290,
+              "label": "form_field",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_12",
+              "x0": 290,
+              "x1": 540,
+              "label": "form_field",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_13",
+              "x0": 540,
+              "x1": 1000,
+              "label": "form_field",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_8",
+          "y0": 687,
+          "y1": 765,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_14",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

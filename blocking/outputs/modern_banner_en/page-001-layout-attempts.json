@@ -1,0 +1,106 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 180,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 250,
+              "label": "header",
+              "kind": "image"
+            },
+            {
+              "block_id": "block_2",
+              "x0": 250,
+              "x1": 1000,
+              "label": "header",
+              "kind": "other"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 180,
+          "y1": 360,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_3",
+              "x0": 250,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 360,
+          "y1": 600,
+          "label": "narrative",
+          "blocks": [
+            {
+              "block_id": "block_4",
+              "x0": 250,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 600,
+          "y1": 680,
+          "label": "table_header",
+          "blocks": [
+            {
+              "block_id": "block_5",
+              "x0": 250,
+              "x1": 1000,
+              "label": "table_header",
+              "kind": "table_header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 680,
+          "y1": 760,
+          "label": "table_body",
+          "blocks": [
+            {
+              "block_id": "block_6",
+              "x0": 250,
+              "x1": 1000,
+              "label": "table_body",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 760,
+          "y1": 1000,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_7",
+              "x0": 250,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

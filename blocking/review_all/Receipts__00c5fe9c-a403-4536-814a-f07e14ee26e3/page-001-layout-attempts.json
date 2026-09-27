@@ -1,0 +1,114 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 220,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "image",
+              "kind": "image"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 220,
+          "y1": 300,
+          "label": "business_info",
+          "blocks": [
+            {
+              "block_id": "block_2",
+              "x0": 0,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 300,
+          "y1": 340,
+          "label": "type",
+          "blocks": [
+            {
+              "block_id": "block_3",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 340,
+          "y1": 520,
+          "label": "transaction_details",
+          "blocks": [
+            {
+              "block_id": "block_4",
+              "x0": 0,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 520,
+          "y1": 560,
+          "label": "total",
+          "blocks": [
+            {
+              "block_id": "block_5",
+              "x0": 0,
+              "x1": 1000,
+              "label": "table_body",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 560,
+          "y1": 640,
+          "label": "payment_info",
+          "blocks": [
+            {
+              "block_id": "block_6",
+              "x0": 0,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 640,
+          "y1": 760,
+          "label": "qr_code",
+          "blocks": [
+            {
+              "block_id": "block_7",
+              "x0": 0,
+              "x1": 1000,
+              "label": "image",
+              "kind": "image"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

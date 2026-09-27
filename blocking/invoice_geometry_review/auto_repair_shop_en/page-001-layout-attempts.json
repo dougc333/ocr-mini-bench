@@ -1,0 +1,222 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "row_start_boundary_id": "Y000",
+          "row_end_boundary_id": "Y014",
+          "label": "Header",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X033",
+              "label": "Image_Header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y014",
+          "row_end_boundary_id": "Y018",
+          "label": "Customer_Vehicle_Information",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X015",
+              "label": "Customer_Information",
+              "kind": "narrative"
+            },
+            {
+              "col_start_boundary_id": "X015",
+              "col_end_boundary_id": "X033",
+              "label": "Vehicle_Information",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y018",
+          "row_end_boundary_id": "Y021",
+          "label": "Table_Header",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X012",
+              "label": "Description_Header",
+              "kind": "table_header"
+            },
+            {
+              "col_start_boundary_id": "X012",
+              "col_end_boundary_id": "X017",
+              "label": "QtyHrs_Header",
+              "kind": "table_header"
+            },
+            {
+              "col_start_boundary_id": "X017",
+              "col_end_boundary_id": "X021",
+              "label": "Unit_Price_Header",
+              "kind": "table_header"
+            },
+            {
+              "col_start_boundary_id": "X021",
+              "col_end_boundary_id": "X033",
+              "label": "Amount_Header",
+              "kind": "table_header"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y021",
+          "row_end_boundary_id": "Y023",
+          "label": "Table_Body_Row_1",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X012",
+              "label": "Description_Synthetic_Oil_Change",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X012",
+              "col_end_boundary_id": "X017",
+              "label": "QtyHrs_1",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X017",
+              "col_end_boundary_id": "X021",
+              "label": "Unit_Price_59_99",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X021",
+              "col_end_boundary_id": "X033",
+              "label": "Amount_59_99",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y023",
+          "row_end_boundary_id": "Y024",
+          "label": "Table_Body_Row_2",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X012",
+              "label": "Description_Brake_Pads_Front",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X012",
+              "col_end_boundary_id": "X017",
+              "label": "QtyHrs_2",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X017",
+              "col_end_boundary_id": "X021",
+              "label": "Unit_Price_45_00",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X021",
+              "col_end_boundary_id": "X033",
+              "label": "Amount_90_00",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y024",
+          "row_end_boundary_id": "Y025",
+          "label": "Table_Body_Row_3",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X012",
+              "label": "Description_Labor_Brake_Installation",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X012",
+              "col_end_boundary_id": "X017",
+              "label": "QtyHrs_1_5",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X017",
+              "col_end_boundary_id": "X021",
+              "label": "Unit_Price_120_00",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X021",
+              "col_end_boundary_id": "X033",
+              "label": "Amount_180_00",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y025",
+          "row_end_boundary_id": "Y026",
+          "label": "Table_Body_Row_4",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X012",
+              "label": "Description_Environmental_Disposal_Fee",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X012",
+              "col_end_boundary_id": "X017",
+              "label": "QtyHrs_1",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X017",
+              "col_end_boundary_id": "X021",
+              "label": "Unit_Price_15_00",
+              "kind": "table_body"
+            },
+            {
+              "col_start_boundary_id": "X021",
+              "col_end_boundary_id": "X033",
+              "label": "Amount_15_00",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y026",
+          "row_end_boundary_id": "Y028",
+          "label": "Table_Totals",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X033",
+              "label": "Summary_Subtotal_Supplies_Tax_Total",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y028",
+          "row_end_boundary_id": "Y031",
+          "label": "Footer",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X033",
+              "label": "Terms_And_Conditions",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

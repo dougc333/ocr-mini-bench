@@ -1,0 +1,69 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 200,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 201,
+          "y1": 400,
+          "label": "narrative",
+          "blocks": [
+            {
+              "block_id": "block_2_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 401,
+          "y1": 600,
+          "label": "narrative",
+          "blocks": [
+            {
+              "block_id": "block_3_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 601,
+          "y1": 800,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_4_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

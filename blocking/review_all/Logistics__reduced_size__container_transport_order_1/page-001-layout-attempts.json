@@ -1,0 +1,99 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 180,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 180,
+          "y1": 360,
+          "label": "form",
+          "blocks": [
+            {
+              "block_id": "block_2",
+              "x0": 0,
+              "x1": 1000,
+              "label": "form",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 360,
+          "y1": 400,
+          "label": "section_header",
+          "blocks": [
+            {
+              "block_id": "block_3",
+              "x0": 0,
+              "x1": 1000,
+              "label": "section_header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 400,
+          "y1": 620,
+          "label": "narrative",
+          "blocks": [
+            {
+              "block_id": "block_4",
+              "x0": 0,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 620,
+          "y1": 820,
+          "label": "information",
+          "blocks": [
+            {
+              "block_id": "block_5",
+              "x0": 0,
+              "x1": 1000,
+              "label": "information",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 820,
+          "y1": 960,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_6",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

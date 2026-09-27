@@ -1,0 +1,105 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 140,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1_1",
+              "x0": 0,
+              "x1": 600,
+              "label": "header",
+              "kind": "header"
+            },
+            {
+              "block_id": "block_1_2",
+              "x0": 600,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 140,
+          "y1": 250,
+          "label": "billing_shipping_info",
+          "blocks": [
+            {
+              "block_id": "block_2_1",
+              "x0": 0,
+              "x1": 500,
+              "label": "billing_info",
+              "kind": "other"
+            },
+            {
+              "block_id": "block_2_2",
+              "x0": 500,
+              "x1": 1000,
+              "label": "shipping_info",
+              "kind": "other"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 250,
+          "y1": 870,
+          "label": "items_table",
+          "blocks": [
+            {
+              "block_id": "block_3_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "items_table",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 870,
+          "y1": 970,
+          "label": "tax_summary",
+          "blocks": [
+            {
+              "block_id": "block_4_1",
+              "x0": 0,
+              "x1": 600,
+              "label": "tax_summary",
+              "kind": "table_body"
+            },
+            {
+              "block_id": "block_4_2",
+              "x0": 600,
+              "x1": 1000,
+              "label": "total",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 970,
+          "y1": 1000,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_5_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "remittance_advice",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

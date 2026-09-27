@@ -1,0 +1,1791 @@
+{
+  "page": 1,
+  "parent_regions": [
+    {
+      "parent_region_id": "region-001",
+      "bbox_normalized": [
+        0,
+        0,
+        1000,
+        281
+      ],
+      "horizontal_boundaries": [
+        {
+          "boundary_id": "region-001-Y000",
+          "position_normalized": 0,
+          "position_points": 0.0,
+          "source": "page_edge",
+          "support": 2
+        },
+        {
+          "boundary_id": "region-001-Y001",
+          "position_normalized": 7,
+          "position_points": 10.4,
+          "source": "visible_rule",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-001-Y002",
+          "position_normalized": 26,
+          "position_points": 37.39,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-001-Y003",
+          "position_normalized": 75,
+          "position_points": 108.78,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-001-Y004",
+          "position_normalized": 110,
+          "position_points": 159.37,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-001-Y005",
+          "position_normalized": 153,
+          "position_points": 222.36,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-001-Y006",
+          "position_normalized": 173,
+          "position_points": 250.35,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-001-Y007",
+          "position_normalized": 193,
+          "position_points": 279.35,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-001-Y008",
+          "position_normalized": 236,
+          "position_points": 341.54,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-001-Y009",
+          "position_normalized": 281,
+          "position_points": 407.62,
+          "source": "visible_rule",
+          "support": 2
+        }
+      ],
+      "vertical_boundaries": [
+        {
+          "boundary_id": "region-001-X000",
+          "position_normalized": 0,
+          "position_points": 0.0,
+          "source": "page_edge",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-001-X001",
+          "position_normalized": 64,
+          "position_points": 70.68,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-001-X002",
+          "position_normalized": 71,
+          "position_points": 78.14,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-001-X003",
+          "position_normalized": 80,
+          "position_points": 88.26,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-001-X004",
+          "position_normalized": 101,
+          "position_points": 110.32,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-001-X005",
+          "position_normalized": 113,
+          "position_points": 123.49,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-001-X006",
+          "position_normalized": 129,
+          "position_points": 141.72,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-001-X007",
+          "position_normalized": 135,
+          "position_points": 147.73,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-001-X008",
+          "position_normalized": 147,
+          "position_points": 161.43,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-001-X009",
+          "position_normalized": 157,
+          "position_points": 172.76,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-001-X010",
+          "position_normalized": 164,
+          "position_points": 179.84,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-001-X011",
+          "position_normalized": 170,
+          "position_points": 186.75,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-001-X012",
+          "position_normalized": 206,
+          "position_points": 225.57,
+          "source": "inferred_alignment",
+          "support": 8
+        },
+        {
+          "boundary_id": "region-001-X013",
+          "position_normalized": 232,
+          "position_points": 254.05,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-001-X014",
+          "position_normalized": 243,
+          "position_points": 266.29,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-001-X015",
+          "position_normalized": 478,
+          "position_points": 524.47,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-001-X016",
+          "position_normalized": 499,
+          "position_points": 548.07,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-001-X017",
+          "position_normalized": 638,
+          "position_points": 700.5,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-001-X018",
+          "position_normalized": 743,
+          "position_points": 815.0,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-001-X019",
+          "position_normalized": 753,
+          "position_points": 825.97,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-001-X020",
+          "position_normalized": 776,
+          "position_points": 851.29,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-001-X021",
+          "position_normalized": 784,
+          "position_points": 860.86,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-001-X022",
+          "position_normalized": 789,
+          "position_points": 865.66,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-001-X023",
+          "position_normalized": 802,
+          "position_points": 880.51,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-001-X024",
+          "position_normalized": 814,
+          "position_points": 893.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-001-X025",
+          "position_normalized": 828,
+          "position_points": 908.14,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-001-X026",
+          "position_normalized": 833,
+          "position_points": 914.34,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-001-X027",
+          "position_normalized": 845,
+          "position_points": 927.2,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-001-X028",
+          "position_normalized": 853,
+          "position_points": 936.13,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-001-X029",
+          "position_normalized": 874,
+          "position_points": 958.93,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-001-X030",
+          "position_normalized": 910,
+          "position_points": 998.39,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-001-X031",
+          "position_normalized": 933,
+          "position_points": 1024.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-001-X032",
+          "position_normalized": 950,
+          "position_points": 1042.15,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-001-X033",
+          "position_normalized": 1000,
+          "position_points": 1097.33,
+          "source": "page_edge",
+          "support": 1
+        }
+      ]
+    },
+    {
+      "parent_region_id": "region-002",
+      "bbox_normalized": [
+        0,
+        281,
+        1000,
+        422
+      ],
+      "horizontal_boundaries": [
+        {
+          "boundary_id": "region-002-Y000",
+          "position_normalized": 281,
+          "position_points": 407.62,
+          "source": "visible_rule",
+          "support": 2
+        },
+        {
+          "boundary_id": "region-002-Y001",
+          "position_normalized": 311,
+          "position_points": 450.72,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-002-Y002",
+          "position_normalized": 333,
+          "position_points": 482.31,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-002-Y003",
+          "position_normalized": 354,
+          "position_points": 513.11,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-002-Y004",
+          "position_normalized": 398,
+          "position_points": 577.49,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-002-Y005",
+          "position_normalized": 422,
+          "position_points": 611.09,
+          "source": "visible_rule",
+          "support": 1
+        }
+      ],
+      "vertical_boundaries": [
+        {
+          "boundary_id": "region-002-X000",
+          "position_normalized": 0,
+          "position_points": 0.0,
+          "source": "page_edge",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-002-X001",
+          "position_normalized": 64,
+          "position_points": 70.68,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-002-X002",
+          "position_normalized": 71,
+          "position_points": 78.14,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-002-X003",
+          "position_normalized": 80,
+          "position_points": 88.26,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-002-X004",
+          "position_normalized": 101,
+          "position_points": 110.32,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-002-X005",
+          "position_normalized": 113,
+          "position_points": 123.49,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-002-X006",
+          "position_normalized": 129,
+          "position_points": 141.72,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-002-X007",
+          "position_normalized": 135,
+          "position_points": 147.73,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-002-X008",
+          "position_normalized": 147,
+          "position_points": 161.43,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-002-X009",
+          "position_normalized": 157,
+          "position_points": 172.76,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-002-X010",
+          "position_normalized": 164,
+          "position_points": 179.84,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-002-X011",
+          "position_normalized": 170,
+          "position_points": 186.75,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-002-X012",
+          "position_normalized": 206,
+          "position_points": 225.57,
+          "source": "inferred_alignment",
+          "support": 8
+        },
+        {
+          "boundary_id": "region-002-X013",
+          "position_normalized": 232,
+          "position_points": 254.05,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-002-X014",
+          "position_normalized": 243,
+          "position_points": 266.29,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-002-X015",
+          "position_normalized": 478,
+          "position_points": 524.47,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-002-X016",
+          "position_normalized": 499,
+          "position_points": 548.07,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-002-X017",
+          "position_normalized": 638,
+          "position_points": 700.5,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-002-X018",
+          "position_normalized": 743,
+          "position_points": 815.0,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-002-X019",
+          "position_normalized": 753,
+          "position_points": 825.97,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-002-X020",
+          "position_normalized": 776,
+          "position_points": 851.29,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-002-X021",
+          "position_normalized": 784,
+          "position_points": 860.86,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-002-X022",
+          "position_normalized": 789,
+          "position_points": 865.66,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-002-X023",
+          "position_normalized": 802,
+          "position_points": 880.51,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-002-X024",
+          "position_normalized": 814,
+          "position_points": 893.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-002-X025",
+          "position_normalized": 828,
+          "position_points": 908.14,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-002-X026",
+          "position_normalized": 833,
+          "position_points": 914.34,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-002-X027",
+          "position_normalized": 845,
+          "position_points": 927.2,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-002-X028",
+          "position_normalized": 853,
+          "position_points": 936.13,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-002-X029",
+          "position_normalized": 874,
+          "position_points": 958.93,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-002-X030",
+          "position_normalized": 910,
+          "position_points": 998.39,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-002-X031",
+          "position_normalized": 933,
+          "position_points": 1024.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-002-X032",
+          "position_normalized": 950,
+          "position_points": 1042.15,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-002-X033",
+          "position_normalized": 1000,
+          "position_points": 1097.33,
+          "source": "page_edge",
+          "support": 1
+        }
+      ]
+    },
+    {
+      "parent_region_id": "region-003",
+      "bbox_normalized": [
+        0,
+        422,
+        1000,
+        455
+      ],
+      "horizontal_boundaries": [
+        {
+          "boundary_id": "region-003-Y000",
+          "position_normalized": 422,
+          "position_points": 611.09,
+          "source": "visible_rule",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-003-Y001",
+          "position_normalized": 455,
+          "position_points": 659.88,
+          "source": "visible_rule",
+          "support": 1
+        }
+      ],
+      "vertical_boundaries": [
+        {
+          "boundary_id": "region-003-X000",
+          "position_normalized": 0,
+          "position_points": 0.0,
+          "source": "page_edge",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-003-X001",
+          "position_normalized": 64,
+          "position_points": 70.68,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-003-X002",
+          "position_normalized": 71,
+          "position_points": 78.14,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-003-X003",
+          "position_normalized": 80,
+          "position_points": 88.26,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-003-X004",
+          "position_normalized": 101,
+          "position_points": 110.32,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-003-X005",
+          "position_normalized": 113,
+          "position_points": 123.49,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-003-X006",
+          "position_normalized": 129,
+          "position_points": 141.72,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-003-X007",
+          "position_normalized": 135,
+          "position_points": 147.73,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-003-X008",
+          "position_normalized": 147,
+          "position_points": 161.43,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-003-X009",
+          "position_normalized": 157,
+          "position_points": 172.76,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-003-X010",
+          "position_normalized": 164,
+          "position_points": 179.84,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-003-X011",
+          "position_normalized": 170,
+          "position_points": 186.75,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-003-X012",
+          "position_normalized": 206,
+          "position_points": 225.57,
+          "source": "inferred_alignment",
+          "support": 8
+        },
+        {
+          "boundary_id": "region-003-X013",
+          "position_normalized": 232,
+          "position_points": 254.05,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-003-X014",
+          "position_normalized": 243,
+          "position_points": 266.29,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-003-X015",
+          "position_normalized": 478,
+          "position_points": 524.47,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-003-X016",
+          "position_normalized": 499,
+          "position_points": 548.07,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-003-X017",
+          "position_normalized": 638,
+          "position_points": 700.5,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-003-X018",
+          "position_normalized": 743,
+          "position_points": 815.0,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-003-X019",
+          "position_normalized": 753,
+          "position_points": 825.97,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-003-X020",
+          "position_normalized": 776,
+          "position_points": 851.29,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-003-X021",
+          "position_normalized": 784,
+          "position_points": 860.86,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-003-X022",
+          "position_normalized": 789,
+          "position_points": 865.66,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-003-X023",
+          "position_normalized": 802,
+          "position_points": 880.51,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-003-X024",
+          "position_normalized": 814,
+          "position_points": 893.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-003-X025",
+          "position_normalized": 828,
+          "position_points": 908.14,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-003-X026",
+          "position_normalized": 833,
+          "position_points": 914.34,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-003-X027",
+          "position_normalized": 845,
+          "position_points": 927.2,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-003-X028",
+          "position_normalized": 853,
+          "position_points": 936.13,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-003-X029",
+          "position_normalized": 874,
+          "position_points": 958.93,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-003-X030",
+          "position_normalized": 910,
+          "position_points": 998.39,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-003-X031",
+          "position_normalized": 933,
+          "position_points": 1024.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-003-X032",
+          "position_normalized": 950,
+          "position_points": 1042.15,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-003-X033",
+          "position_normalized": 1000,
+          "position_points": 1097.33,
+          "source": "page_edge",
+          "support": 1
+        }
+      ]
+    },
+    {
+      "parent_region_id": "region-004",
+      "bbox_normalized": [
+        0,
+        455,
+        1000,
+        766
+      ],
+      "horizontal_boundaries": [
+        {
+          "boundary_id": "region-004-Y000",
+          "position_normalized": 455,
+          "position_points": 659.88,
+          "source": "visible_rule",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-004-Y001",
+          "position_normalized": 463,
+          "position_points": 670.48,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-004-Y002",
+          "position_normalized": 497,
+          "position_points": 720.27,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-004-Y003",
+          "position_normalized": 538,
+          "position_points": 780.26,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-004-Y004",
+          "position_normalized": 579,
+          "position_points": 839.25,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-004-Y005",
+          "position_normalized": 634,
+          "position_points": 918.83,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-004-Y006",
+          "position_normalized": 684,
+          "position_points": 991.42,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-004-Y007",
+          "position_normalized": 722,
+          "position_points": 1046.41,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-004-Y008",
+          "position_normalized": 759,
+          "position_points": 1099.8,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-004-Y009",
+          "position_normalized": 766,
+          "position_points": 1110.6,
+          "source": "visible_rule",
+          "support": 1
+        }
+      ],
+      "vertical_boundaries": [
+        {
+          "boundary_id": "region-004-X000",
+          "position_normalized": 0,
+          "position_points": 0.0,
+          "source": "page_edge",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-004-X001",
+          "position_normalized": 64,
+          "position_points": 70.68,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-004-X002",
+          "position_normalized": 71,
+          "position_points": 78.14,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-004-X003",
+          "position_normalized": 80,
+          "position_points": 88.26,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-004-X004",
+          "position_normalized": 101,
+          "position_points": 110.32,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-004-X005",
+          "position_normalized": 113,
+          "position_points": 123.49,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-004-X006",
+          "position_normalized": 129,
+          "position_points": 141.72,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-004-X007",
+          "position_normalized": 135,
+          "position_points": 147.73,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-004-X008",
+          "position_normalized": 147,
+          "position_points": 161.43,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-004-X009",
+          "position_normalized": 157,
+          "position_points": 172.76,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-004-X010",
+          "position_normalized": 164,
+          "position_points": 179.84,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-004-X011",
+          "position_normalized": 170,
+          "position_points": 186.75,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-004-X012",
+          "position_normalized": 206,
+          "position_points": 225.57,
+          "source": "inferred_alignment",
+          "support": 8
+        },
+        {
+          "boundary_id": "region-004-X013",
+          "position_normalized": 232,
+          "position_points": 254.05,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-004-X014",
+          "position_normalized": 243,
+          "position_points": 266.29,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-004-X015",
+          "position_normalized": 478,
+          "position_points": 524.47,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-004-X016",
+          "position_normalized": 499,
+          "position_points": 548.07,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-004-X017",
+          "position_normalized": 638,
+          "position_points": 700.5,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-004-X018",
+          "position_normalized": 743,
+          "position_points": 815.0,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-004-X019",
+          "position_normalized": 753,
+          "position_points": 825.97,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-004-X020",
+          "position_normalized": 776,
+          "position_points": 851.29,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-004-X021",
+          "position_normalized": 784,
+          "position_points": 860.86,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-004-X022",
+          "position_normalized": 789,
+          "position_points": 865.66,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-004-X023",
+          "position_normalized": 802,
+          "position_points": 880.51,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-004-X024",
+          "position_normalized": 814,
+          "position_points": 893.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-004-X025",
+          "position_normalized": 828,
+          "position_points": 908.14,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-004-X026",
+          "position_normalized": 833,
+          "position_points": 914.34,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-004-X027",
+          "position_normalized": 845,
+          "position_points": 927.2,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-004-X028",
+          "position_normalized": 853,
+          "position_points": 936.13,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-004-X029",
+          "position_normalized": 874,
+          "position_points": 958.93,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-004-X030",
+          "position_normalized": 910,
+          "position_points": 998.39,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-004-X031",
+          "position_normalized": 933,
+          "position_points": 1024.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-004-X032",
+          "position_normalized": 950,
+          "position_points": 1042.15,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-004-X033",
+          "position_normalized": 1000,
+          "position_points": 1097.33,
+          "source": "page_edge",
+          "support": 1
+        }
+      ]
+    },
+    {
+      "parent_region_id": "region-005",
+      "bbox_normalized": [
+        0,
+        766,
+        1000,
+        814
+      ],
+      "horizontal_boundaries": [
+        {
+          "boundary_id": "region-005-Y000",
+          "position_normalized": 766,
+          "position_points": 1110.6,
+          "source": "visible_rule",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-005-Y001",
+          "position_normalized": 770,
+          "position_points": 1115.39,
+          "source": "visible_rule",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-005-Y002",
+          "position_normalized": 801,
+          "position_points": 1161.59,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-005-Y003",
+          "position_normalized": 814,
+          "position_points": 1179.78,
+          "source": "visible_rule",
+          "support": 1
+        }
+      ],
+      "vertical_boundaries": [
+        {
+          "boundary_id": "region-005-X000",
+          "position_normalized": 0,
+          "position_points": 0.0,
+          "source": "page_edge",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-005-X001",
+          "position_normalized": 64,
+          "position_points": 70.68,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-005-X002",
+          "position_normalized": 71,
+          "position_points": 78.14,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-005-X003",
+          "position_normalized": 80,
+          "position_points": 88.26,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-005-X004",
+          "position_normalized": 101,
+          "position_points": 110.32,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-005-X005",
+          "position_normalized": 113,
+          "position_points": 123.49,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-005-X006",
+          "position_normalized": 129,
+          "position_points": 141.72,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-005-X007",
+          "position_normalized": 135,
+          "position_points": 147.73,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-005-X008",
+          "position_normalized": 147,
+          "position_points": 161.43,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-005-X009",
+          "position_normalized": 157,
+          "position_points": 172.76,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-005-X010",
+          "position_normalized": 164,
+          "position_points": 179.84,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-005-X011",
+          "position_normalized": 170,
+          "position_points": 186.75,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-005-X012",
+          "position_normalized": 206,
+          "position_points": 225.57,
+          "source": "inferred_alignment",
+          "support": 8
+        },
+        {
+          "boundary_id": "region-005-X013",
+          "position_normalized": 232,
+          "position_points": 254.05,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-005-X014",
+          "position_normalized": 243,
+          "position_points": 266.29,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-005-X015",
+          "position_normalized": 478,
+          "position_points": 524.47,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-005-X016",
+          "position_normalized": 499,
+          "position_points": 548.07,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-005-X017",
+          "position_normalized": 638,
+          "position_points": 700.5,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-005-X018",
+          "position_normalized": 743,
+          "position_points": 815.0,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-005-X019",
+          "position_normalized": 753,
+          "position_points": 825.97,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-005-X020",
+          "position_normalized": 776,
+          "position_points": 851.29,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-005-X021",
+          "position_normalized": 784,
+          "position_points": 860.86,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-005-X022",
+          "position_normalized": 789,
+          "position_points": 865.66,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-005-X023",
+          "position_normalized": 802,
+          "position_points": 880.51,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-005-X024",
+          "position_normalized": 814,
+          "position_points": 893.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-005-X025",
+          "position_normalized": 828,
+          "position_points": 908.14,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-005-X026",
+          "position_normalized": 833,
+          "position_points": 914.34,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-005-X027",
+          "position_normalized": 845,
+          "position_points": 927.2,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-005-X028",
+          "position_normalized": 853,
+          "position_points": 936.13,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-005-X029",
+          "position_normalized": 874,
+          "position_points": 958.93,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-005-X030",
+          "position_normalized": 910,
+          "position_points": 998.39,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-005-X031",
+          "position_normalized": 933,
+          "position_points": 1024.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-005-X032",
+          "position_normalized": 950,
+          "position_points": 1042.15,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-005-X033",
+          "position_normalized": 1000,
+          "position_points": 1097.33,
+          "source": "page_edge",
+          "support": 1
+        }
+      ]
+    },
+    {
+      "parent_region_id": "region-006",
+      "bbox_normalized": [
+        0,
+        814,
+        1000,
+        1000
+      ],
+      "horizontal_boundaries": [
+        {
+          "boundary_id": "region-006-Y000",
+          "position_normalized": 814,
+          "position_points": 1179.78,
+          "source": "visible_rule",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-006-Y001",
+          "position_normalized": 849,
+          "position_points": 1229.97,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-006-Y002",
+          "position_normalized": 868,
+          "position_points": 1257.37,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-006-Y003",
+          "position_normalized": 882,
+          "position_points": 1278.56,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-006-Y004",
+          "position_normalized": 897,
+          "position_points": 1299.76,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-006-Y005",
+          "position_normalized": 912,
+          "position_points": 1321.36,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-006-Y006",
+          "position_normalized": 942,
+          "position_points": 1365.35,
+          "source": "inferred_alignment",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-006-Y007",
+          "position_normalized": 1000,
+          "position_points": 1449.33,
+          "source": "page_edge",
+          "support": 1
+        }
+      ],
+      "vertical_boundaries": [
+        {
+          "boundary_id": "region-006-X000",
+          "position_normalized": 0,
+          "position_points": 0.0,
+          "source": "page_edge",
+          "support": 1
+        },
+        {
+          "boundary_id": "region-006-X001",
+          "position_normalized": 64,
+          "position_points": 70.68,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-006-X002",
+          "position_normalized": 71,
+          "position_points": 78.14,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-006-X003",
+          "position_normalized": 80,
+          "position_points": 88.26,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-006-X004",
+          "position_normalized": 101,
+          "position_points": 110.32,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-006-X005",
+          "position_normalized": 113,
+          "position_points": 123.49,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-006-X006",
+          "position_normalized": 129,
+          "position_points": 141.72,
+          "source": "inferred_alignment",
+          "support": 4
+        },
+        {
+          "boundary_id": "region-006-X007",
+          "position_normalized": 135,
+          "position_points": 147.73,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-006-X008",
+          "position_normalized": 147,
+          "position_points": 161.43,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-006-X009",
+          "position_normalized": 157,
+          "position_points": 172.76,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-006-X010",
+          "position_normalized": 164,
+          "position_points": 179.84,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-006-X011",
+          "position_normalized": 170,
+          "position_points": 186.75,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-006-X012",
+          "position_normalized": 206,
+          "position_points": 225.57,
+          "source": "inferred_alignment",
+          "support": 8
+        },
+        {
+          "boundary_id": "region-006-X013",
+          "position_normalized": 232,
+          "position_points": 254.05,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-006-X014",
+          "position_normalized": 243,
+          "position_points": 266.29,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-006-X015",
+          "position_normalized": 478,
+          "position_points": 524.47,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-006-X016",
+          "position_normalized": 499,
+          "position_points": 548.07,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-006-X017",
+          "position_normalized": 638,
+          "position_points": 700.5,
+          "source": "inferred_alignment",
+          "support": 9
+        },
+        {
+          "boundary_id": "region-006-X018",
+          "position_normalized": 743,
+          "position_points": 815.0,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-006-X019",
+          "position_normalized": 753,
+          "position_points": 825.97,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-006-X020",
+          "position_normalized": 776,
+          "position_points": 851.29,
+          "source": "inferred_alignment",
+          "support": 10
+        },
+        {
+          "boundary_id": "region-006-X021",
+          "position_normalized": 784,
+          "position_points": 860.86,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-006-X022",
+          "position_normalized": 789,
+          "position_points": 865.66,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-006-X023",
+          "position_normalized": 802,
+          "position_points": 880.51,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-006-X024",
+          "position_normalized": 814,
+          "position_points": 893.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-006-X025",
+          "position_normalized": 828,
+          "position_points": 908.14,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-006-X026",
+          "position_normalized": 833,
+          "position_points": 914.34,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-006-X027",
+          "position_normalized": 845,
+          "position_points": 927.2,
+          "source": "inferred_alignment",
+          "support": 7
+        },
+        {
+          "boundary_id": "region-006-X028",
+          "position_normalized": 853,
+          "position_points": 936.13,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-006-X029",
+          "position_normalized": 874,
+          "position_points": 958.93,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-006-X030",
+          "position_normalized": 910,
+          "position_points": 998.39,
+          "source": "inferred_alignment",
+          "support": 11
+        },
+        {
+          "boundary_id": "region-006-X031",
+          "position_normalized": 933,
+          "position_points": 1024.25,
+          "source": "inferred_alignment",
+          "support": 6
+        },
+        {
+          "boundary_id": "region-006-X032",
+          "position_normalized": 950,
+          "position_points": 1042.15,
+          "source": "inferred_alignment",
+          "support": 5
+        },
+        {
+          "boundary_id": "region-006-X033",
+          "position_normalized": 1000,
+          "position_points": 1097.33,
+          "source": "page_edge",
+          "support": 1
+        }
+      ]
+    }
+  ]
+}

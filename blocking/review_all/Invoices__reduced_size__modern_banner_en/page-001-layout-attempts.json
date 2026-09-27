@@ -1,0 +1,120 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 200,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 300,
+              "label": "image",
+              "kind": "image"
+            },
+            {
+              "block_id": "block_2",
+              "x0": 300,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 200,
+          "y1": 400,
+          "label": "contact_info",
+          "blocks": [
+            {
+              "block_id": "block_3",
+              "x0": 0,
+              "x1": 300,
+              "label": "contact_details",
+              "kind": "narrative"
+            },
+            {
+              "block_id": "block_4",
+              "x0": 300,
+              "x1": 1000,
+              "label": "invoice_info",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 400,
+          "y1": 600,
+          "label": "billing_info",
+          "blocks": [
+            {
+              "block_id": "block_5",
+              "x0": 0,
+              "x1": 300,
+              "label": "billing_header",
+              "kind": "narrative"
+            },
+            {
+              "block_id": "block_6",
+              "x0": 300,
+              "x1": 1000,
+              "label": "billing_details",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 600,
+          "y1": 700,
+          "label": "table_header",
+          "blocks": [
+            {
+              "block_id": "block_7",
+              "x0": 0,
+              "x1": 1000,
+              "label": "description_table_header",
+              "kind": "table_header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 700,
+          "y1": 800,
+          "label": "table_body",
+          "blocks": [
+            {
+              "block_id": "block_8",
+              "x0": 0,
+              "x1": 1000,
+              "label": "description_table_body",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 800,
+          "y1": 1000,
+          "label": "total_section",
+          "blocks": [
+            {
+              "block_id": "block_9",
+              "x0": 700,
+              "x1": 1000,
+              "label": "total_summary",
+              "kind": "narrative"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

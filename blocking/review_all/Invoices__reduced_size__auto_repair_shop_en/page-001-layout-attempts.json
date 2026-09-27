@@ -1,0 +1,121 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band1",
+          "y0": 0,
+          "y1": 150,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band2",
+          "y0": 151,
+          "y1": 308,
+          "label": "customer_vehicle_info",
+          "blocks": [
+            {
+              "block_id": "block2",
+              "x0": 50,
+              "x1": 500,
+              "label": "customer_info",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block3",
+              "x0": 510,
+              "x1": 950,
+              "label": "vehicle_info",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band3",
+          "y0": 309,
+          "y1": 370,
+          "label": "invoice_info",
+          "blocks": [
+            {
+              "block_id": "block4",
+              "x0": 550,
+              "x1": 1000,
+              "label": "invoice_details",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band4",
+          "y0": 371,
+          "y1": 580,
+          "label": "table",
+          "blocks": [
+            {
+              "block_id": "block5",
+              "x0": 0,
+              "x1": 1000,
+              "label": "table_body",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band5",
+          "y0": 581,
+          "y1": 700,
+          "label": "summary",
+          "blocks": [
+            {
+              "block_id": "block6",
+              "x0": 600,
+              "x1": 1000,
+              "label": "totals",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band6",
+          "y0": 701,
+          "y1": 800,
+          "label": "terms",
+          "blocks": [
+            {
+              "block_id": "block7",
+              "x0": 0,
+              "x1": 1000,
+              "label": "terms_conditions",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band7",
+          "y0": 801,
+          "y1": 830,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block8",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 180,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 485,
+              "label": "header",
+              "kind": "header"
+            },
+            {
+              "block_id": "block_2",
+              "x0": 485,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 180,
+          "y1": 290,
+          "label": "carrier_info",
+          "blocks": [
+            {
+              "block_id": "block_3",
+              "x0": 0,
+              "x1": 1000,
+              "label": "carrier_info",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 290,
+          "y1": 420,
+          "label": "shipment_info",
+          "blocks": [
+            {
+              "block_id": "block_4",
+              "x0": 0,
+              "x1": 450,
+              "label": "shipment_details",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_5",
+              "x0": 450,
+              "x1": 1000,
+              "label": "requirements",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 420,
+          "y1": 590,
+          "label": "loading_info",
+          "blocks": [
+            {
+              "block_id": "block_6",
+              "x0": 0,
+              "x1": 1000,
+              "label": "loading_table",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 590,
+          "y1": 740,
+          "label": "destination_info",
+          "blocks": [
+            {
+              "block_id": "block_7",
+              "x0": 0,
+              "x1": 1000,
+              "label": "destination_table",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 740,
+          "y1": 870,
+          "label": "contractual_basis",
+          "blocks": [
+            {
+              "block_id": "block_8",
+              "x0": 0,
+              "x1": 1000,
+              "label": "contractual_text",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 870,
+          "y1": 1000,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_9",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

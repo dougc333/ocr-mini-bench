@@ -1,0 +1,105 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "row_start_boundary_id": "Y000",
+          "row_end_boundary_id": "Y001",
+          "label": "header",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X033",
+              "label": "image",
+              "kind": "image"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y001",
+          "row_end_boundary_id": "Y009",
+          "label": "company_info",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X015",
+              "label": "narrative",
+              "kind": "narrative"
+            },
+            {
+              "col_start_boundary_id": "X015",
+              "col_end_boundary_id": "X033",
+              "label": "invoice_details",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y009",
+          "row_end_boundary_id": "Y014",
+          "label": "customer_vehicle_info",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X016",
+              "label": "customer_info",
+              "kind": "narrative"
+            },
+            {
+              "col_start_boundary_id": "X016",
+              "col_end_boundary_id": "X033",
+              "label": "vehicle_info",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y014",
+          "row_end_boundary_id": "Y024",
+          "label": "items_table",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X013",
+              "label": "table_header",
+              "kind": "table_header"
+            },
+            {
+              "col_start_boundary_id": "X013",
+              "col_end_boundary_id": "X033",
+              "label": "table_body",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y024",
+          "row_end_boundary_id": "Y027",
+          "label": "totals",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X023",
+              "col_end_boundary_id": "X033",
+              "label": "totals_info",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "row_start_boundary_id": "Y027",
+          "row_end_boundary_id": "Y034",
+          "label": "terms_and_footer",
+          "blocks": [
+            {
+              "col_start_boundary_id": "X000",
+              "col_end_boundary_id": "X033",
+              "label": "terms",
+              "kind": "narrative"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

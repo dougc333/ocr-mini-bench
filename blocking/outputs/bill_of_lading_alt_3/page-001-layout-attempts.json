@@ -1,0 +1,127 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 144,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 144,
+          "y1": 475,
+          "label": "form_section",
+          "blocks": [
+            {
+              "block_id": "block_2",
+              "x0": 0,
+              "x1": 500,
+              "label": "shipper_info",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_3",
+              "x0": 500,
+              "x1": 1000,
+              "label": "booking_info",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 475,
+          "y1": 646,
+          "label": "consignee_notify",
+          "blocks": [
+            {
+              "block_id": "block_4",
+              "x0": 0,
+              "x1": 500,
+              "label": "consignee_info",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_5",
+              "x0": 500,
+              "x1": 1000,
+              "label": "discharge_info",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 646,
+          "y1": 784,
+          "label": "vessel_info",
+          "blocks": [
+            {
+              "block_id": "block_6",
+              "x0": 0,
+              "x1": 250,
+              "label": "vessel",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_7",
+              "x0": 250,
+              "x1": 750,
+              "label": "port_loading_discharge",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_8",
+              "x0": 750,
+              "x1": 1000,
+              "label": "port_receipt_delivery",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 784,
+          "y1": 988,
+          "label": "package_description",
+          "blocks": [
+            {
+              "block_id": "block_9",
+              "x0": 0,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 988,
+          "y1": 1000,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_10",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

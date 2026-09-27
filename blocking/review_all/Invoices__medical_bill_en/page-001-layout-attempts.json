@@ -1,0 +1,128 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 160,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 161,
+          "y1": 208,
+          "label": "statement_of_account",
+          "blocks": [
+            {
+              "block_id": "block_2_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "statement_of_account",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 209,
+          "y1": 364,
+          "label": "patient_information_insurance",
+          "blocks": [
+            {
+              "block_id": "block_3_1",
+              "x0": 0,
+              "x1": 490,
+              "label": "patient_information",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_3_2",
+              "x0": 491,
+              "x1": 1000,
+              "label": "insurance_info",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 365,
+          "y1": 410,
+          "label": "provider_diagnosis",
+          "blocks": [
+            {
+              "block_id": "block_4_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "provider_diagnosis",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 411,
+          "y1": 648,
+          "label": "services_table",
+          "blocks": [
+            {
+              "block_id": "block_5_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "services_table",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 649,
+          "y1": 835,
+          "label": "account_summary",
+          "blocks": [
+            {
+              "block_id": "block_6_1",
+              "x0": 0,
+              "x1": 550,
+              "label": "account_summary_label",
+              "kind": "narrative"
+            },
+            {
+              "block_id": "block_6_2",
+              "x0": 551,
+              "x1": 1000,
+              "label": "account_summary_detail",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 836,
+          "y1": 873,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_7_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

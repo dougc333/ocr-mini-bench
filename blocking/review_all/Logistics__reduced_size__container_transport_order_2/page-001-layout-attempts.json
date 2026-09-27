@@ -1,0 +1,204 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 90,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 90,
+          "y1": 170,
+          "label": "issued_by",
+          "blocks": [
+            {
+              "block_id": "block_2",
+              "x0": 0,
+              "x1": 1000,
+              "label": "issued_by",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 170,
+          "y1": 280,
+          "label": "booking_details",
+          "blocks": [
+            {
+              "block_id": "block_3",
+              "x0": 0,
+              "x1": 1000,
+              "label": "booking_details",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 280,
+          "y1": 360,
+          "label": "routing_information",
+          "blocks": [
+            {
+              "block_id": "block_4",
+              "x0": 0,
+              "x1": 1000,
+              "label": "routing_information",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 360,
+          "y1": 420,
+          "label": "goods_description",
+          "blocks": [
+            {
+              "block_id": "block_5",
+              "x0": 0,
+              "x1": 1000,
+              "label": "goods_description",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 420,
+          "y1": 480,
+          "label": "order_numbers",
+          "blocks": [
+            {
+              "block_id": "block_6",
+              "x0": 0,
+              "x1": 1000,
+              "label": "order_numbers",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 480,
+          "y1": 510,
+          "label": "references",
+          "blocks": [
+            {
+              "block_id": "block_7",
+              "x0": 0,
+              "x1": 1000,
+              "label": "references",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_8",
+          "y0": 510,
+          "y1": 580,
+          "label": "containers_details",
+          "blocks": [
+            {
+              "block_id": "block_8",
+              "x0": 0,
+              "x1": 1000,
+              "label": "containers_details",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_9",
+          "y0": 580,
+          "y1": 620,
+          "label": "packages_details",
+          "blocks": [
+            {
+              "block_id": "block_9",
+              "x0": 0,
+              "x1": 1000,
+              "label": "packages_details",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_10",
+          "y0": 620,
+          "y1": 640,
+          "label": "marks_and_numbers",
+          "blocks": [
+            {
+              "block_id": "block_10",
+              "x0": 0,
+              "x1": 1000,
+              "label": "marks_and_numbers",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_11",
+          "y0": 640,
+          "y1": 700,
+          "label": "handling_instructions",
+          "blocks": [
+            {
+              "block_id": "block_11",
+              "x0": 0,
+              "x1": 1000,
+              "label": "handling_instructions",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_12",
+          "y0": 700,
+          "y1": 980,
+          "label": "instructions_details",
+          "blocks": [
+            {
+              "block_id": "block_12",
+              "x0": 0,
+              "x1": 1000,
+              "label": "instructions_details",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_13",
+          "y0": 980,
+          "y1": 1000,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_13",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

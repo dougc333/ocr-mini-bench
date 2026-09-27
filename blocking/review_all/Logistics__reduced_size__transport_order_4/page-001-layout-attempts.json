@@ -1,0 +1,173 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 100,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 101,
+          "y1": 200,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_2",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 201,
+          "y1": 300,
+          "label": "contact_info",
+          "blocks": [
+            {
+              "block_id": "block_3",
+              "x0": 0,
+              "x1": 500,
+              "label": "ordering_branch",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_4",
+              "x0": 501,
+              "x1": 1000,
+              "label": "carrier",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 301,
+          "y1": 350,
+          "label": "statement",
+          "blocks": [
+            {
+              "block_id": "block_5",
+              "x0": 0,
+              "x1": 1000,
+              "label": "confirmation_text",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 351,
+          "y1": 400,
+          "label": "transport_info",
+          "blocks": [
+            {
+              "block_id": "block_6",
+              "x0": 0,
+              "x1": 500,
+              "label": "truck_info",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_7",
+              "x0": 501,
+              "x1": 1000,
+              "label": "additional_req",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 401,
+          "y1": 500,
+          "label": "requirements",
+          "blocks": [
+            {
+              "block_id": "block_8",
+              "x0": 0,
+              "x1": 1000,
+              "label": "load_sec_req",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 501,
+          "y1": 700,
+          "label": "loading",
+          "blocks": [
+            {
+              "block_id": "block_9",
+              "x0": 0,
+              "x1": 1000,
+              "label": "starting_point",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_8",
+          "y0": 701,
+          "y1": 800,
+          "label": "unloading",
+          "blocks": [
+            {
+              "block_id": "block_10",
+              "x0": 0,
+              "x1": 1000,
+              "label": "final_destination",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_9",
+          "y0": 801,
+          "y1": 900,
+          "label": "contractual_basis",
+          "blocks": [
+            {
+              "block_id": "block_11",
+              "x0": 0,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_10",
+          "y0": 901,
+          "y1": 1000,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_12",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

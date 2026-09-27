@@ -1,0 +1,4 @@
+{
+  "pdf": "/Users/dc/ocr-mini-bench/bench_documents/Invoices/freelance_designer_en.pdf",
+  "error": "Page 1 remained invalid after two layout attempts; review blocking/review_all/Invoices__freelance_designer_en/page-001-layout-attempts.json"
+}

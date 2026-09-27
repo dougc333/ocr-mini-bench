@@ -1,0 +1,120 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "b1",
+          "y0": 0,
+          "y1": 175,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "b1_1",
+              "x0": 0,
+              "x1": 700,
+              "label": "header",
+              "kind": "header"
+            },
+            {
+              "block_id": "b1_2",
+              "x0": 700,
+              "x1": 1000,
+              "label": "barcode",
+              "kind": "image"
+            }
+          ]
+        },
+        {
+          "band_id": "b2",
+          "y0": 175,
+          "y1": 350,
+          "label": "supplier_client_info",
+          "blocks": [
+            {
+              "block_id": "b2_1",
+              "x0": 0,
+              "x1": 500,
+              "label": "from_supplier",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "b2_2",
+              "x0": 500,
+              "x1": 1000,
+              "label": "to_client",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "b3",
+          "y0": 350,
+          "y1": 400,
+          "label": "details_header",
+          "blocks": [
+            {
+              "block_id": "b3_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "details_header",
+              "kind": "table_header"
+            }
+          ]
+        },
+        {
+          "band_id": "b4",
+          "y0": 400,
+          "y1": 600,
+          "label": "item_table",
+          "blocks": [
+            {
+              "block_id": "b4_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "item_table",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "b5",
+          "y0": 600,
+          "y1": 750,
+          "label": "summary",
+          "blocks": [
+            {
+              "block_id": "b5_1",
+              "x0": 0,
+              "x1": 500,
+              "label": "space",
+              "kind": "other"
+            },
+            {
+              "block_id": "b5_2",
+              "x0": 500,
+              "x1": 1000,
+              "label": "totals",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "b6",
+          "y0": 750,
+          "y1": 1000,
+          "label": "payment_instructions",
+          "blocks": [
+            {
+              "block_id": "b6_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "payment_instructions",
+              "kind": "narrative"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 150,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 151,
+          "y1": 256,
+          "label": "order_details",
+          "blocks": [
+            {
+              "block_id": "block_2_1",
+              "x0": 0,
+              "x1": 500,
+              "label": "order_info",
+              "kind": "narrative"
+            },
+            {
+              "block_id": "block_2_2",
+              "x0": 501,
+              "x1": 1000,
+              "label": "carrier_info",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 257,
+          "y1": 300,
+          "label": "confirmation",
+          "blocks": [
+            {
+              "block_id": "block_3_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "confirmation_text",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 301,
+          "y1": 350,
+          "label": "transport_details",
+          "blocks": [
+            {
+              "block_id": "block_4_1",
+              "x0": 0,
+              "x1": 333,
+              "label": "truck_type",
+              "kind": "narrative"
+            },
+            {
+              "block_id": "block_4_2",
+              "x0": 334,
+              "x1": 666,
+              "label": "agreed_price",
+              "kind": "narrative"
+            },
+            {
+              "block_id": "block_4_3",
+              "x0": 667,
+              "x1": 1000,
+              "label": "additional_req",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 351,
+          "y1": 480,
+          "label": "loading_details",
+          "blocks": [
+            {
+              "block_id": "block_5_1",
+              "x0": 0,
+              "x1": 500,
+              "label": "starting_point",
+              "kind": "table_body"
+            },
+            {
+              "block_id": "block_5_2",
+              "x0": 501,
+              "x1": 1000,
+              "label": "load_info",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 481,
+          "y1": 560,
+          "label": "unloading_details",
+          "blocks": [
+            {
+              "block_id": "block_6_1",
+              "x0": 0,
+              "x1": 500,
+              "label": "final_destination",
+              "kind": "table_body"
+            },
+            {
+              "block_id": "block_6_2",
+              "x0": 501,
+              "x1": 1000,
+              "label": "delivery_instructions",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 561,
+          "y1": 640,
+          "label": "contractual_basis",
+          "blocks": [
+            {
+              "block_id": "block_7_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "contractual_text",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_8",
+          "y0": 641,
+          "y1": 680,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_8_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer_text",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

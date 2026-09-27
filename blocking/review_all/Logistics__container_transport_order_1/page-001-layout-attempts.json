@@ -1,0 +1,114 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 145,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 145,
+          "y1": 252,
+          "label": "contact_information",
+          "blocks": [
+            {
+              "block_id": "block_2_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "contact_information",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 252,
+          "y1": 305,
+          "label": "title_section",
+          "blocks": [
+            {
+              "block_id": "block_3_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "title_section",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 305,
+          "y1": 425,
+          "label": "transport_order_information",
+          "blocks": [
+            {
+              "block_id": "block_4_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "transport_order_information",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 425,
+          "y1": 675,
+          "label": "shipping_container_details",
+          "blocks": [
+            {
+              "block_id": "block_5_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "shipping_container_details",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 675,
+          "y1": 800,
+          "label": "terms_and_conditions",
+          "blocks": [
+            {
+              "block_id": "block_6_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "terms_and_conditions",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 800,
+          "y1": 935,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_7_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

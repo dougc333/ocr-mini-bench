@@ -1,0 +1,136 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 150,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1_1",
+              "x0": 50,
+              "x1": 950,
+              "label": "image",
+              "kind": "image"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 151,
+          "y1": 220,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_2_1",
+              "x0": 50,
+              "x1": 950,
+              "label": "header details",
+              "kind": "other"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 221,
+          "y1": 280,
+          "label": "section title",
+          "blocks": [
+            {
+              "block_id": "block_3_1",
+              "x0": 50,
+              "x1": 950,
+              "label": "invoice title",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 281,
+          "y1": 400,
+          "label": "details",
+          "blocks": [
+            {
+              "block_id": "block_4_1",
+              "x0": 50,
+              "x1": 475,
+              "label": "details left",
+              "kind": "narrative"
+            },
+            {
+              "block_id": "block_4_2",
+              "x0": 475,
+              "x1": 950,
+              "label": "details right",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 401,
+          "y1": 720,
+          "label": "table",
+          "blocks": [
+            {
+              "block_id": "block_5_1",
+              "x0": 50,
+              "x1": 950,
+              "label": "items table",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 721,
+          "y1": 760,
+          "label": "total",
+          "blocks": [
+            {
+              "block_id": "block_6_1",
+              "x0": 50,
+              "x1": 950,
+              "label": "total amounts",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 761,
+          "y1": 800,
+          "label": "thank you note",
+          "blocks": [
+            {
+              "block_id": "block_7_1",
+              "x0": 50,
+              "x1": 950,
+              "label": "thank you",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_8",
+          "y0": 801,
+          "y1": 1000,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_8_1",
+              "x0": 50,
+              "x1": 950,
+              "label": "footer details",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

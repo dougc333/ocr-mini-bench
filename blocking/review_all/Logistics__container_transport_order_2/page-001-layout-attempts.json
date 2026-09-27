@@ -1,0 +1,234 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 80,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 80,
+          "y1": 120,
+          "label": "issuer_info",
+          "blocks": [
+            {
+              "block_id": "block_2_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "issuer_info",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 120,
+          "y1": 140,
+          "label": "section_header",
+          "blocks": [
+            {
+              "block_id": "block_3_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "section_header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 140,
+          "y1": 180,
+          "label": "transport_info",
+          "blocks": [
+            {
+              "block_id": "block_4_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "transport_info",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 180,
+          "y1": 220,
+          "label": "shipment_info",
+          "blocks": [
+            {
+              "block_id": "block_5_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "shipment_info",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 220,
+          "y1": 260,
+          "label": "routing_info",
+          "blocks": [
+            {
+              "block_id": "block_6_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "routing_info",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 260,
+          "y1": 300,
+          "label": "goods_description",
+          "blocks": [
+            {
+              "block_id": "block_7_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "goods_description",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_8",
+          "y0": 300,
+          "y1": 340,
+          "label": "order_numbers",
+          "blocks": [
+            {
+              "block_id": "block_8_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "order_numbers",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_9",
+          "y0": 340,
+          "y1": 360,
+          "label": "references",
+          "blocks": [
+            {
+              "block_id": "block_9_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "references",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_10",
+          "y0": 360,
+          "y1": 440,
+          "label": "containers_details",
+          "blocks": [
+            {
+              "block_id": "block_10_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "containers_details",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_11",
+          "y0": 440,
+          "y1": 500,
+          "label": "packages_details",
+          "blocks": [
+            {
+              "block_id": "block_11_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "packages_details",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_12",
+          "y0": 500,
+          "y1": 520,
+          "label": "marks_and_numbers",
+          "blocks": [
+            {
+              "block_id": "block_12_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "marks_and_numbers",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_13",
+          "y0": 520,
+          "y1": 560,
+          "label": "handling_instructions",
+          "blocks": [
+            {
+              "block_id": "block_13_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "handling_instructions",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_14",
+          "y0": 560,
+          "y1": 840,
+          "label": "instructions_details",
+          "blocks": [
+            {
+              "block_id": "block_14_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "instructions_details",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_15",
+          "y0": 840,
+          "y1": 860,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_15_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

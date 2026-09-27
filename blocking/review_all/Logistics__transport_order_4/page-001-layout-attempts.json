@@ -1,0 +1,151 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 180,
+          "label": "Header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 181,
+          "y1": 340,
+          "label": "Ordering and Carrier Information",
+          "blocks": [
+            {
+              "block_id": "block_2",
+              "x0": 0,
+              "x1": 450,
+              "label": "Ordering Branch",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_3",
+              "x0": 451,
+              "x1": 1000,
+              "label": "Carrier",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 341,
+          "y1": 380,
+          "label": "Confirmation Statement",
+          "blocks": [
+            {
+              "block_id": "block_4",
+              "x0": 0,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 381,
+          "y1": 460,
+          "label": "Transport Details",
+          "blocks": [
+            {
+              "block_id": "block_5",
+              "x0": 0,
+              "x1": 1000,
+              "label": "transport_details",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 461,
+          "y1": 560,
+          "label": "Load Securing Requirements",
+          "blocks": [
+            {
+              "block_id": "block_6",
+              "x0": 0,
+              "x1": 1000,
+              "label": "load_requirements",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 561,
+          "y1": 700,
+          "label": "Starting Point",
+          "blocks": [
+            {
+              "block_id": "block_7",
+              "x0": 0,
+              "x1": 1000,
+              "label": "starting_point",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 701,
+          "y1": 800,
+          "label": "Final Destination",
+          "blocks": [
+            {
+              "block_id": "block_8",
+              "x0": 0,
+              "x1": 1000,
+              "label": "final_destination",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_8",
+          "y0": 801,
+          "y1": 900,
+          "label": "Contractual Basis",
+          "blocks": [
+            {
+              "block_id": "block_9",
+              "x0": 0,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_9",
+          "y0": 901,
+          "y1": 1000,
+          "label": "Footer",
+          "blocks": [
+            {
+              "block_id": "block_10",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

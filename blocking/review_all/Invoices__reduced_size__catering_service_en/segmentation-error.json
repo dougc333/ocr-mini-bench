@@ -1,0 +1,4 @@
+{
+  "pdf": "/Users/dc/ocr-mini-bench/bench_documents/Invoices/reduced_size/catering_service_en.pdf",
+  "error": "Page 1 remained invalid after two layout attempts; review blocking/review_all/Invoices__reduced_size__catering_service_en/page-001-layout-attempts.json"
+}

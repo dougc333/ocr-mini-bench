@@ -1,0 +1,93 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "parent_regions": [
+        {
+          "parent_region_id": "region-001",
+          "cells": [
+            {
+              "row_start_boundary_id": "region-001-Y000",
+              "row_end_boundary_id": "region-001-Y009",
+              "col_start_boundary_id": "region-001-X000",
+              "col_end_boundary_id": "region-001-X033",
+              "merged": true,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "parent_region_id": "region-002",
+          "cells": [
+            {
+              "row_start_boundary_id": "region-002-Y000",
+              "row_end_boundary_id": "region-002-Y005",
+              "col_start_boundary_id": "region-002-X000",
+              "col_end_boundary_id": "region-002-X033",
+              "merged": true,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "parent_region_id": "region-003",
+          "cells": [
+            {
+              "row_start_boundary_id": "region-003-Y000",
+              "row_end_boundary_id": "region-003-Y001",
+              "col_start_boundary_id": "region-003-X000",
+              "col_end_boundary_id": "region-003-X033",
+              "merged": true,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "parent_region_id": "region-004",
+          "cells": [
+            {
+              "row_start_boundary_id": "region-004-Y000",
+              "row_end_boundary_id": "region-004-Y009",
+              "col_start_boundary_id": "region-004-X000",
+              "col_end_boundary_id": "region-004-X033",
+              "merged": true,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "parent_region_id": "region-005",
+          "cells": [
+            {
+              "row_start_boundary_id": "region-005-Y000",
+              "row_end_boundary_id": "region-005-Y003",
+              "col_start_boundary_id": "region-005-X000",
+              "col_end_boundary_id": "region-005-X033",
+              "merged": true,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "parent_region_id": "region-006",
+          "cells": [
+            {
+              "row_start_boundary_id": "region-006-Y000",
+              "row_end_boundary_id": "region-006-Y007",
+              "col_start_boundary_id": "region-006-X000",
+              "col_end_boundary_id": "region-006-X033",
+              "merged": true,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

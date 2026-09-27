@@ -1,0 +1,328 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 120,
+          "label": "Header",
+          "blocks": [
+            {
+              "block_id": "block_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 120,
+          "y1": 304,
+          "label": "Shipper Details",
+          "blocks": [
+            {
+              "block_id": "block_2",
+              "x0": 0,
+              "x1": 448,
+              "label": "shipper",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_3",
+              "x0": 448,
+              "x1": 700,
+              "label": "booking details",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_4",
+              "x0": 700,
+              "x1": 1000,
+              "label": "reference",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 304,
+          "y1": 380,
+          "label": "Consignee and Notify Party",
+          "blocks": [
+            {
+              "block_id": "block_5",
+              "x0": 0,
+              "x1": 500,
+              "label": "consignee",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_6",
+              "x0": 500,
+              "x1": 1000,
+              "label": "delivery agent",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 380,
+          "y1": 460,
+          "label": "Voyage Details",
+          "blocks": [
+            {
+              "block_id": "block_7",
+              "x0": 0,
+              "x1": 333,
+              "label": "voyage",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_8",
+              "x0": 333,
+              "x1": 666,
+              "label": "port of loading",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_9",
+              "x0": 666,
+              "x1": 1000,
+              "label": "port of discharge",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 460,
+          "y1": 840,
+          "label": "Goods Description",
+          "blocks": [
+            {
+              "block_id": "block_10",
+              "x0": 0,
+              "x1": 1000,
+              "label": "goods table",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 840,
+          "y1": 875,
+          "label": "Freight Collect",
+          "blocks": [
+            {
+              "block_id": "block_11",
+              "x0": 0,
+              "x1": 1000,
+              "label": "freight collect",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 875,
+          "y1": 950,
+          "label": "Charges",
+          "blocks": [
+            {
+              "block_id": "block_12",
+              "x0": 0,
+              "x1": 500,
+              "label": "charges",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_13",
+              "x0": 500,
+              "x1": 1000,
+              "label": "packages count",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_8",
+          "y0": 950,
+          "y1": 105,
+          "label": "Issue Details and Signature",
+          "blocks": [
+            {
+              "block_id": "block_14",
+              "x0": 0,
+              "x1": 500,
+              "label": "issue details",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_15",
+              "x0": 500,
+              "x1": 1000,
+              "label": "signature",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_9",
+          "y0": 105,
+          "y1": 110,
+          "label": "Footer",
+          "blocks": [
+            {
+              "block_id": "block_16",
+              "x0": 0,
+              "x1": 1000,
+              "label": "footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    },
+    "validation_error": "Overlapping horizontal bands near band 2"
+  },
+  {
+    "attempt": 2,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 80,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 81,
+          "y1": 270,
+          "label": "information_section",
+          "blocks": [
+            {
+              "block_id": "block_2_1",
+              "x0": 0,
+              "x1": 500,
+              "label": "shipper_information",
+              "kind": "narrative"
+            },
+            {
+              "block_id": "block_2_2",
+              "x0": 501,
+              "x1": 1000,
+              "label": "booking_information",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 271,
+          "y1": 350,
+          "label": "vessel_information",
+          "blocks": [
+            {
+              "block_id": "block_3_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "vessel_and_ports",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 351,
+          "y1": 650,
+          "label": "particulars_section",
+          "blocks": [
+            {
+              "block_id": "block_4_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "particulars_table",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 651,
+          "y1": 700,
+          "label": "freight_collect",
+          "blocks": [
+            {
+              "block_id": "block_5_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "freight_collect_footer",
+              "kind": "footer"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 701,
+          "y1": 830,
+          "label": "charges_section",
+          "blocks": [
+            {
+              "block_id": "block_6_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "freight_charges_table",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 831,
+          "y1": 950,
+          "label": "declaration_section",
+          "blocks": [
+            {
+              "block_id": "block_7_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "declaration",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_8",
+          "y0": 951,
+          "y1": 1000,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block_8_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "contact_footer",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

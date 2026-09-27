@@ -1,0 +1,127 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band1",
+          "y0": 0,
+          "y1": 140,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block1",
+              "x0": 0,
+              "x1": 650,
+              "label": "header",
+              "kind": "header"
+            },
+            {
+              "block_id": "block2",
+              "x0": 650,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band2",
+          "y0": 140,
+          "y1": 220,
+          "label": "carrier_transport",
+          "blocks": [
+            {
+              "block_id": "block3",
+              "x0": 0,
+              "x1": 500,
+              "label": "carrier",
+              "kind": "table_body"
+            },
+            {
+              "block_id": "block4",
+              "x0": 500,
+              "x1": 1000,
+              "label": "transport_details",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band3",
+          "y0": 220,
+          "y1": 340,
+          "label": "loading_unloading",
+          "blocks": [
+            {
+              "block_id": "block5",
+              "x0": 0,
+              "x1": 500,
+              "label": "loading",
+              "kind": "table_body"
+            },
+            {
+              "block_id": "block6",
+              "x0": 500,
+              "x1": 1000,
+              "label": "unloading",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band4",
+          "y0": 340,
+          "y1": 500,
+          "label": "table",
+          "blocks": [
+            {
+              "block_id": "block7",
+              "x0": 0,
+              "x1": 1000,
+              "label": "table",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band5",
+          "y0": 500,
+          "y1": 580,
+          "label": "instructions",
+          "blocks": [
+            {
+              "block_id": "block8",
+              "x0": 0,
+              "x1": 1000,
+              "label": "narrative",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band6",
+          "y0": 580,
+          "y1": 620,
+          "label": "footer",
+          "blocks": [
+            {
+              "block_id": "block9",
+              "x0": 0,
+              "x1": 500,
+              "label": "footer_left",
+              "kind": "footer"
+            },
+            {
+              "block_id": "block10",
+              "x0": 500,
+              "x1": 1000,
+              "label": "footer_right",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

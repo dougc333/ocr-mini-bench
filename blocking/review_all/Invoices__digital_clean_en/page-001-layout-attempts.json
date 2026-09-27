@@ -1,0 +1,135 @@
+[
+  {
+    "attempt": 1,
+    "layout": {
+      "horizontal_bands": [
+        {
+          "band_id": "band_1",
+          "y0": 0,
+          "y1": 200,
+          "label": "header",
+          "blocks": [
+            {
+              "block_id": "block_1_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "header",
+              "kind": "header"
+            }
+          ]
+        },
+        {
+          "band_id": "band_2",
+          "y0": 200,
+          "y1": 400,
+          "label": "amount_due_section",
+          "blocks": [
+            {
+              "block_id": "block_2_1",
+              "x0": 0,
+              "x1": 500,
+              "label": "amount_due",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_2_2",
+              "x0": 500,
+              "x1": 1000,
+              "label": "due_date",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_3",
+          "y0": 400,
+          "y1": 500,
+          "label": "api_workspace_section",
+          "blocks": [
+            {
+              "block_id": "block_3_1",
+              "x0": 0,
+              "x1": 500,
+              "label": "api_usage",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_3_2",
+              "x0": 500,
+              "x1": 1000,
+              "label": "workspace_id",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_4",
+          "y0": 500,
+          "y1": 600,
+          "label": "billing_info_section",
+          "blocks": [
+            {
+              "block_id": "block_4_1",
+              "x0": 0,
+              "x1": 500,
+              "label": "billed_to",
+              "kind": "form_field"
+            },
+            {
+              "block_id": "block_4_2",
+              "x0": 500,
+              "x1": 1000,
+              "label": "from",
+              "kind": "form_field"
+            }
+          ]
+        },
+        {
+          "band_id": "band_5",
+          "y0": 600,
+          "y1": 800,
+          "label": "invoice_items_table",
+          "blocks": [
+            {
+              "block_id": "block_5_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "invoice_items",
+              "kind": "table_body"
+            }
+          ]
+        },
+        {
+          "band_id": "band_6",
+          "y0": 800,
+          "y1": 900,
+          "label": "total_section",
+          "blocks": [
+            {
+              "block_id": "block_6_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "total",
+              "kind": "narrative"
+            }
+          ]
+        },
+        {
+          "band_id": "band_7",
+          "y0": 900,
+          "y1": 1000,
+          "label": "payment_info_section",
+          "blocks": [
+            {
+              "block_id": "block_7_1",
+              "x0": 0,
+              "x1": 1000,
+              "label": "payment_info",
+              "kind": "footer"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

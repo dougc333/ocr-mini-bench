@@ -1,0 +1,4 @@
+{
+  "pdf": "/Users/dc/ocr-mini-bench/bench_documents/Invoices/reduced_size/complex_erp_table_en.pdf",
+  "error": "Page 1 remained invalid after two layout attempts; review blocking/outputs/complex_erp_table_en/page-001-layout-attempts.json"
+}
